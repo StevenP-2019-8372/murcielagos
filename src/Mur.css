@@ -1,0 +1,19 @@
+.main{
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+h1 {
+    font-size: 2rem;
+    color: #333;
+  }
+
+p {
+    font-size: 1.2rem;
+    color: #666;
+  }
+img{
+    margin-top: 2.78%;
+    height: 500px;
+    width: 500px;
+  }
